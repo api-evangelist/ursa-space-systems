@@ -83,8 +83,6 @@ common:
     url: https://ursaspace.com/#contact
   - type: Email
     url: mailto:info@ursaspace.com
-  - type: Phone
-    url: tel:+16072166234
   - type: Twitter
     url: https://x.com/UrsaSpace
   - type: LinkedIn
